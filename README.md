@@ -107,8 +107,5 @@ Logs are stored in the `logs/` directory with daily rotation.
 1. Create a new file in `models/` directory
 2. Define data classes using `@dataclass` decorator
 3. Import in `models/__init__.py`
-
-## License
-
-Copyright © 2024 AI Compliance Checker
+   
 # Infosys-Project
